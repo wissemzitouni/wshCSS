@@ -1,0 +1,21 @@
+.navbar {
+  display: inline;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+.title {
+  color: blue;
+  font-size: 24px;
+}
+.paragraphe {
+  color: red;
+}
+
+.conteneur {
+  background-color: gray;
+}
+
+.texte {
+  font-weight: bold;
+}
